@@ -322,12 +322,12 @@ img {
 	display: flex;
 	gap: 30px;
 }
-
+/* 
 .action-absolute{
   display: flex;
   justify-content: center;
   align-items: center;
-}
+} */
 .action-relative {
 	position: relative;
  
@@ -346,8 +346,8 @@ img {
 	text-transform: uppercase;
 	letter-spacing: 0.03em;
 	color: var(--white-color);
-	/* text-align: center;
-	padding-top: 27px; */
+	text-align: center;
+	padding-top: 27px; 
 }
 .footer {
 	background-color: var(--footer-hero-color);
